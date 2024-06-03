@@ -1,2 +1,2 @@
 # Study
-学习
+学习使用GitHub
